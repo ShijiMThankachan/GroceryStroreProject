@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22384" started-at="2022-04-27T11:53:13 IST" finished-at="2022-04-27T11:53:35 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22384" started-at="2022-04-27T11:53:13 IST" finished-at="2022-04-27T11:53:35 IST">
+      <class name="testCases.HomePageTestCases">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.HomePageTestCases@37374a5e]" name="beforeMethod" is-config="true" duration-ms="5951" started-at="2022-04-27T11:53:13 IST" finished-at="2022-04-27T11:53:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyLoginUserNameTC()[pri:0, instance:testCases.HomePageTestCases@37374a5e]" name="verifyLoginUserNameTC" duration-ms="2518" started-at="2022-04-27T11:53:19 IST" finished-at="2022-04-27T11:53:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginUserNameTC -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testCases.HomePageTestCases@37374a5e]" name="afterMethod" is-config="true" duration-ms="101" started-at="2022-04-27T11:53:21 IST" finished-at="2022-04-27T11:53:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginUserNameTC status=SUCCESS method=HomePageTestCases.verifyLoginUserNameTC()[pri:0, instance:testCases.HomePageTestCases@37374a5e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.HomePageTestCases@37374a5e]" name="beforeMethod" is-config="true" duration-ms="4047" started-at="2022-04-27T11:53:21 IST" finished-at="2022-04-27T11:53:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyManagePagesMoreInfoLink()[pri:0, instance:testCases.HomePageTestCases@37374a5e]" name="verifyManagePagesMoreInfoLink" duration-ms="2623" started-at="2022-04-27T11:53:25 IST" finished-at="2022-04-27T11:53:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyManagePagesMoreInfoLink -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testCases.HomePageTestCases@37374a5e]" name="afterMethod" is-config="true" duration-ms="76" started-at="2022-04-27T11:53:28 IST" finished-at="2022-04-27T11:53:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyManagePagesMoreInfoLink status=SUCCESS method=HomePageTestCases.verifyManagePagesMoreInfoLink()[pri:0, instance:testCases.HomePageTestCases@37374a5e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.HomePageTestCases@37374a5e]" name="beforeMethod" is-config="true" duration-ms="4812" started-at="2022-04-27T11:53:28 IST" finished-at="2022-04-27T11:53:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyTotalNumberOfDashboardItems()[pri:0, instance:testCases.HomePageTestCases@37374a5e]" name="verifyTotalNumberOfDashboardItems" duration-ms="2105" started-at="2022-04-27T11:53:33 IST" finished-at="2022-04-27T11:53:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTotalNumberOfDashboardItems -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testCases.HomePageTestCases@37374a5e]" name="afterMethod" is-config="true" duration-ms="99" started-at="2022-04-27T11:53:35 IST" finished-at="2022-04-27T11:53:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTotalNumberOfDashboardItems status=SUCCESS method=HomePageTestCases.verifyTotalNumberOfDashboardItems()[pri:0, instance:testCases.HomePageTestCases@37374a5e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testCases.HomePageTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
